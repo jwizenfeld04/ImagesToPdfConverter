@@ -7,5 +7,3 @@ Usage:
 3. After selecting files you will be inputted to type in file name (don't include file extension)
 4. Files will be converted to PDF and saved at the location of the first image selected
 
-TODOS:
-1. Include validation of filename to prevent special characters from interfering with saving
